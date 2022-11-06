@@ -67,16 +67,14 @@
 
 Below you can view a rolling 12 months of datasets from our challenges. Feel free to explore the repository for any other dataset, we have split them by sport.
 
-|Challenge Month|Sport|Data|Notes|Roundup|
+|Challenge Month|Sport|Data|Deadline|References|Roundup|
 |:----|:---------|:---------|:---------|:---------|:---------|
-|October 22|Rowing|[Dataset](https://github.com/CJ-Mayes/SportsVizSunday)|Notes| |
-|October 22|Rowing|[Dataset](https://github.com/CJ-Mayes/SportsVizSunday)|Notes| |
-|October 22|Rowing|[Dataset](https://github.com/CJ-Mayes/SportsVizSunday)|Notes| |
-|October 22|Rowing|[Dataset](https://github.com/CJ-Mayes/SportsVizSunday)|Notes| |
-|October 22|Rowing|[Dataset](https://github.com/CJ-Mayes/SportsVizSunday)|Notes| |
-|October 22|Rowing|[Dataset](https://github.com/CJ-Mayes/SportsVizSunday)|Notes| |
-|October 22|Rowing|[Dataset](https://github.com/CJ-Mayes/SportsVizSunday)|Notes| |
-|Next Challenge Soon: | | |???|
+|Challenge Month|Sport|[Data](https://github.com/CJ-Mayes/SportsVizSunday)|Deadline|References|Roundup|
+|Challenge Month|Sport|Data|Deadline|References|Roundup|
+|Challenge Month|Sport|Data|Deadline|References|Roundup|
+|Challenge Month|Sport|Data|Deadline|References|Roundup|
+|Challenge Month|Sport|Data|Deadline|References|Roundup|
+|[Level 1: Player Select](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select.md) |[Choose Your Character](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select.md#data-visualisation-challenge)|[Experiment With Colour](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select.md#visual-design-challenge-colour)|[The Best Mario Kart](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select.md#data-preparation-challenge-the-best-mario-kart)|31st December 2021|[Level 1](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select/roundup/level_1_roundup.md)|
 
 <!-- GETTING STARTED -->
 ## Getting Started
