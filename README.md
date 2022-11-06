@@ -49,11 +49,10 @@
 
 Below you can view a rolling 12 months of datasets from our challenges. Feel free to explore the repository for any other dataset, we have split them by sport.
 
-|Challenge Month|Sport|Data|References|Roundup|
-|:----|:---------|:---------|:---------:---------|
+|Challenge Month|Sport|Data|Deadline|References|Roundup|
+|:----|:---------|:---------|:---------|:---------|:---------|
 |Challenge Month|Sport|[Data](https://github.com/CJ-Mayes/SportsVizSunday)|Deadline|References|Roundup|
-|Challenge Month|Sport|Data|References|Roundup|
-
+|Challenge Month|Sport|Data|Deadline|References|Roundup|
 |Challenge Month|Sport|Data|Deadline|References|Roundup|
 |Challenge Month|Sport|Data|Deadline|References|Roundup|
 |Challenge Month|Sport|Data|Deadline|References|Roundup|
