@@ -58,9 +58,9 @@ please make sure that the readme file is made for the new data
 |Dec 22| TBC |[Data TBC](https://github.com/CJ-Mayes/SportsVizSunday)|Jan 23|Kate Brown|
 |Oct 22|Rowing World Championships|[Data](https://github.com/CJ-Mayes/SportsVizSunday)|Dec 22|Simon Rowe|
 |Aug 22|CommonWealth Games|Data|Sept 22|Mo Wootten|
-|July 22|The 150th Open Championship Golf|Aug 22|Deadline|Kate Brown|
-|Jun 22|Data Plus Music Collaboration|July 22|Deadline|Simon Beaumont|
-|May 22|World Snooker Championships|June 22|Deadline|Simon Rowe|
+|July 22|The 150th Open Championship Golf|Data|Aug 22|Kate Brown|
+|Jun 22|Data Plus Music Collaboration|Data|July 22|Simon Beaumont|
+|May 22|World Snooker Championships|Data|June 22|Simon Rowe|
 |April 22|Indy500|Data|May 22|Simon Beaumont|
 |March 22|Women In Data|Data|Apirl 22|Kate Brown, CJ Mayes, Mo Wootten|
 |Feb 22|Winter Olympics|Data|March 22|Mo Wootten|
