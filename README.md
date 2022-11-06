@@ -46,7 +46,7 @@
 ## Latest Challenges
 
 
-Below you can view a rolling 12 months of datasets from our challenges. Feel free to explore the repository for any other dataset, we have split them by sport.
+Below you can view a rolling 10 lastest challenges. Feel free to explore the repository for any other dataset, we have split them by sport.
 
 <!-- Team, please amend only to have maximum of the last 12 in here at a time, the data will need to be uploaded and then linked to in brackets
 please make sure that the readme file is made for the new data
@@ -61,7 +61,7 @@ please make sure that the readme file is made for the new data
 |Jun 22|Data Plus Music Collaboration|[Data]|July 22|Simon Beaumont|
 |May 22|World Snooker Championships|[Data](https://github.com/CJ-Mayes/SportsVizSunday/tree/main/Data/Snooker)|June 22|Simon Rowe|
 |April 22|Indy500|[Data](https://github.com/CJ-Mayes/SportsVizSunday/tree/main/Data/Racing)|May 22|Simon Beaumont|
-|March 22|Women In Data|[Data]|Apirl 22|Kate Brown, CJ Mayes, Mo Wootten|
+|March 22|Women In Data|[Data](https://github.com/CJ-Mayes/SportsVizSunday/tree/main/Data/Racing)|April 22|Kate Brown, CJ Mayes, Mo Wootten|
 |Feb 22|Winter Olympics|[Data]|March 22|Mo Wootten|
 |Jan 22|Sports Personality Of The Year|[Data]|Feb 22|Simon Beaumont|
 
