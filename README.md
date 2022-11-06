@@ -55,15 +55,15 @@ please make sure that the readme file is made for the new data
 |Challenge Month|Sport|Data|Deadline|Created By|
 |:----|:---------|:---------|:---------|:---------|
 |Dec 22| TBC |[Data TBC](https://github.com/CJ-Mayes/SportsVizSunday)|Jan 23|Kate Brown|
-|Oct 22|Rowing World Championships|[Data](https://github.com/CJ-Mayes/SportsVizSunday)|Dec 22|Simon Rowe|
-|Aug 22|CommonWealth Games|Data|Sept 22|Mo Wootten|
-|July 22|The 150th Open Championship Golf|Data|Aug 22|Kate Brown|
-|Jun 22|Data Plus Music Collaboration|Data|July 22|Simon Beaumont|
-|May 22|World Snooker Championships|Data|June 22|Simon Rowe|
-|April 22|Indy500|Data|May 22|Simon Beaumont|
-|March 22|Women In Data|Data|Apirl 22|Kate Brown, CJ Mayes, Mo Wootten|
-|Feb 22|Winter Olympics|Data|March 22|Mo Wootten|
-|Jan 22|Sports Personality Of The Year|Data|Feb 22|Simon Beaumont|
+|Oct 22|Rowing World Championships|[Data](https://github.com/CJ-Mayes/SportsVizSunday/tree/main/Data/Rowing)|Dec 22|Simon Rowe|
+|Aug 22|CommonWealth Games|[Data](https://github.com/CJ-Mayes/SportsVizSunday/blob/main/Data/CommonWealth%20Games/CWGMedallists_MedalTable_v2.xlsx)|Sept 22|Mo Wootten|
+|July 22|The 150th Open Championship Golf|[Data](https://github.com/CJ-Mayes/SportsVizSunday/blob/main/Data/Golf/TheOpen%20(1).xlsx)|Aug 22|Kate Brown|
+|Jun 22|Data Plus Music Collaboration|[Data]|July 22|Simon Beaumont|
+|May 22|World Snooker Championships|[Data]|June 22|Simon Rowe|
+|April 22|Indy500|[Data]|May 22|Simon Beaumont|
+|March 22|Women In Data|[Data]|Apirl 22|Kate Brown, CJ Mayes, Mo Wootten|
+|Feb 22|Winter Olympics|[Data]|March 22|Mo Wootten|
+|Jan 22|Sports Personality Of The Year|[Data]|Feb 22|Simon Beaumont|
 
 <!-- GETTING STARTED -->
 ## Getting Started
