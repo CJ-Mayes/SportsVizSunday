@@ -58,11 +58,11 @@ please make sure that the readme file is made for the new data
 |Oct 22|Rowing World Championships|[Data](https://github.com/CJ-Mayes/SportsVizSunday/tree/main/Data/Rowing)|Dec 22|Simon Rowe|
 |Aug 22|CommonWealth Games|[Data](https://github.com/CJ-Mayes/SportsVizSunday/blob/main/Data/CommonWealth%20Games/CWGMedallists_MedalTable_v2.xlsx)|Sept 22|Mo Wootten|
 |July 22|The 150th Open Championship Golf|[Data](https://github.com/CJ-Mayes/SportsVizSunday/blob/main/Data/Golf/TheOpen%20(1).xlsx)|Aug 22|Kate Brown|
-|Jun 22|Data Plus Music Collaboration|[Data]|July 22|Simon Beaumont|
+|Jun 22|Data Plus Music Collaboration| |July 22|Simon Beaumont|
 |May 22|World Snooker Championships|[Data](https://github.com/CJ-Mayes/SportsVizSunday/tree/main/Data/Snooker)|June 22|Simon Rowe|
 |April 22|Indy500|[Data](https://github.com/CJ-Mayes/SportsVizSunday/tree/main/Data/Racing)|May 22|Simon Beaumont|
 |March 22|Women In Data|[Data](https://github.com/CJ-Mayes/SportsVizSunday/tree/main/Data/Racing)|April 22|Kate Brown, CJ Mayes, Mo Wootten|
-|Feb 22|Winter Olympics|[Data]|March 22|Mo Wootten|
+|Feb 22|Winter Olympics|[Data](https://github.com/CJ-Mayes/SportsVizSunday/blob/main/Data/Olympics/OlympicsLugeSinglesResults_14and18%20-%20OlympicsLugeSinglesResults_14and18.csv)|March 22|Mo Wootten|
 |Jan 22|Sports Personality Of The Year|[Data]|Feb 22|Simon Beaumont|
 
 <!-- GETTING STARTED -->
