@@ -26,7 +26,9 @@
 <h3 align="center">SportsVizSunday</h3>
 
   <p align="center">
-    project_description
+    Sports Viz Sunday is a place for people to combine two of the greatest things in the world: Sports and data.
+    We frequently release new datasets for you to pull insights out of and share in the form of data visualisation.
+    Share your entry through the hashtag #SportsVizSunday on Twitter and keep up with the blog to see what other sports fans are creating. 
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
