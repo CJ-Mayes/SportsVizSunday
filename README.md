@@ -49,11 +49,15 @@
 
 Below you can view a rolling 12 months of datasets from our challenges. Feel free to explore the repository for any other dataset, we have split them by sport.
 
-|Challenge Month|Sport|Data|Deadline|References|Roundup|
+<!-- Team, please amend only to have maximum of the last 12 in here at a time, the data will need to be uploaded and then linked to in brackets
+please make sure that the readme file is made for the new data
+-->
+
+|Challenge Month|Sport|Data|Deadline|Created By|Roundup|
 |:----|:---------|:---------|:---------|:---------|:---------|
-|Challenge Month|Sport|[Data](https://github.com/CJ-Mayes/SportsVizSunday)|Deadline|References|Roundup|
-|Challenge Month|Sport|Data|Deadline|References|Roundup|
-|Challenge Month|Sport|Data|Deadline|References|Roundup|
+|Oct 22|Rowing World Championships|[Data](https://github.com/CJ-Mayes/SportsVizSunday)|Jan 23|Simon Rowe|Roundup|
+|Aug 22|CommonWealth Games|Data|Deadline|Mo Wootten|Roundup|
+|July 22|The 150th Open Championship Golf|Data|Deadline|Kate Brown|Roundup|
 |Challenge Month|Sport|Data|Deadline|References|Roundup|
 |Challenge Month|Sport|Data|Deadline|References|Roundup|
 |[Level 1: Player Select](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select.md) |[Choose Your Character](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select.md#data-visualisation-challenge)|[Experiment With Colour](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select.md#visual-design-challenge-colour)|[The Best Mario Kart](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select.md#data-preparation-challenge-the-best-mario-kart)|31st December 2021|[Level 1](https://github.com/wjsutton/games_night_viz/blob/main/challenges/1_player_select/roundup/level_1_roundup.md)|
