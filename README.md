@@ -24,6 +24,7 @@
   </a>
 
 <h3 align="center">SportsVizSunday</h3>
+<a href="#about-the-project">About The Project</a>
 
   <p align="center">
     Sports Viz Sunday is a place for people to combine two of the greatest things in the world: Sports and data.
