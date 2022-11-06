@@ -76,7 +76,6 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Below you can view all the different datasets from our Monthly challenge. Feel free to explore the repository for any other dataset, we have split them by sport.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 |Challenge Month|Sport|Data|Deadline|References|Roundup|
 |:----|:---------|:---------|:---------|:---------|:---------|
@@ -89,21 +88,6 @@ Below you can view all the different datasets from our Monthly challenge. Feel f
 |[The Tour: The Sound of Games with #DataPlusMusic](https://github.com/wjsutton/games_night_viz/blob/main/challenges/gnv_tour3_dataplusmusic.md) | [#DataPlusMusic's Music in Video Games](https://www.hipstervizninja.com/blog/video-games/?utm_source=rss&utm_medium=rss&utm_campaign=video-games) |  |  |31st August 2022|
 |[Level 5: Montages](https://github.com/wjsutton/games_night_viz/blob/main/challenges/5_montages.md) | [Your Montage!](https://github.com/wjsutton/games_night_viz/blob/main/challenges/5_montages.md#data-visualisation-challenge) | [Layout Containers](https://github.com/wjsutton/games_night_viz/blob/main/challenges/5_montages.md#visual-design-challenge-layout-containers) | [Cleaning Weapons Data](https://github.com/wjsutton/games_night_viz/blob/main/challenges/5_montages.md#data-preparation-challenge-cleaning-weapons-data) |16th October 2022 | |
 |Level 6: Coming Soon! | | | |???|
-
-### Built With
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
