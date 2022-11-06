@@ -64,11 +64,10 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Latest Challenges
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Below you can view all the different datasets from our Monthly challenge. Feel free to explore the repository for any other dataset, we have split them by sport.
+Below you can view a rolling 12 months of datasets from our challenges. Feel free to explore the repository for any other dataset, we have split them by sport.
 
 |Challenge Month|Sport|Data|Deadline|References|Roundup|
 |:----|:---------|:---------|:---------|:---------|:---------|
@@ -85,8 +84,8 @@ Below you can view all the different datasets from our Monthly challenge. Feel f
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Taking part is easy! All you need to do to submit your work is use the hashtag #SportsVizSunday on Twitter for one of the team to see it. 
+We also have a repo tracking the different submissions and interactions with the team here [#SVS Tweet Tracker](https://sarahlovesdata.co.uk/2022/07/01/iron-quest-nostalgic-games/)
 
 ### Prerequisites
 
