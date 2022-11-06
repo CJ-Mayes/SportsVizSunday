@@ -30,9 +30,6 @@
     We frequently release new datasets for you to pull insights out of and share in the form of data visualisation.
     Share your entry through the hashtag #SportsVizSunday on Twitter and keep up with the blog to see what other sports fans are creating. 
     <br />
-    
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the datasets »</strong></a>
-    
     <br />
     <br />
     <a href="https://www.sportsvizsunday.com/">View Site</a>
