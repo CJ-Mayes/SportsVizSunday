@@ -16,12 +16,11 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 -->
 
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="[images/logo.png](https://static.wixstatic.com/media/2c78af_66758cbe3b4941be9dcf96210b19c35f~mv2.png/v1/crop/x_187,y_399,w_703,h_171/fill/w_255,h_62,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/SportsVizSunday-1%20(1).png)" alt="Logo" width="80" height="80">
+  <a href="https://static.wixstatic.com/media/2c78af_66758cbe3b4941be9dcf96210b19c35f~mv2.png/v1/crop/x_187,y_399,w_703,h_171/fill/w_255,h_62,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/SportsVizSunday-1%20(1).png">
+    <img src="https://static.wixstatic.com/media/2c78af_66758cbe3b4941be9dcf96210b19c35f~mv2.png/v1/crop/x_187,y_399,w_703,h_171/fill/w_255,h_62,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/SportsVizSunday-1%20(1).png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">SportsVizSunday</h3>
@@ -32,11 +31,11 @@
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://www.sportsvizsunday.com/">View Site</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://www.sportsvizsunday.com/team">Meet The Team</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://twitter.com/_CJMayes">Partner With Us</a>
   </p>
 </div>
 
