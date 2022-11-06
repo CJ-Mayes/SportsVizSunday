@@ -65,7 +65,6 @@ you can copy and paste the below:
 |April 22|Indy500|[Data](https://github.com/CJ-Mayes/SportsVizSunday/tree/main/Data/Racing)|May 22|Simon Beaumont|
 |March 22|Women In Data|[Data](https://github.com/CJ-Mayes/SportsVizSunday/tree/main/Data/Racing)|April 22|Kate Brown, CJ Mayes, Mo Wootten|
 |Feb 22|Winter Olympics|[Data](https://github.com/CJ-Mayes/SportsVizSunday/blob/main/Data/Olympics/OlympicsLugeSinglesResults_14and18%20-%20OlympicsLugeSinglesResults_14and18.csv)|March 22|Mo Wootten|
-|Jan 22|Sports Personality Of The Year|[Data]|Feb 22|Simon Beaumont|
 
 <!-- GETTING STARTED -->
 ## Getting Started
