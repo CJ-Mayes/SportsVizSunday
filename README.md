@@ -24,7 +24,7 @@
   </a>
   
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Welcome To SportsVizSunday
 
   <p align="center">
     Sports Viz Sunday is a place for people to combine two of the greatest things in the world: Sports and data.
