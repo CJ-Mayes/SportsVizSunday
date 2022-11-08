@@ -84,11 +84,11 @@ If you have a data set you would like to contribute towards a future challenge, 
 
 CJ Mayes - [@_CJMayes](https://twitter.com/@CJMayes)
 <br />
-Mo Wootten - [@mo_wootten](https://twitter.com/@Mo_Wootten)
+Mo Wootten - [@Mo_Wootten](https://twitter.com/@Mo_Wootten)
 <br />
 Simon Beaumont - [@SimonBeaumont04](https://twitter.com/@SimonBeaumont04) 
 <br />
-Simon Rowe - [@mrroweuk](https://twitter.com/@MrRoweuk)
+Simon Rowe - [@MrRoweuk](https://twitter.com/@MrRoweuk)
 
 
 
