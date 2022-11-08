@@ -1,5 +1,5 @@
 |Dataset Title|Date Created|Data Source|Comments|
 |:----|:---------|:---------|:---------|
-|CWGMedallists_MedalTableV2|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022|
+|SVS May 2019 ICC Cricket World Cup|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022|
 
 
