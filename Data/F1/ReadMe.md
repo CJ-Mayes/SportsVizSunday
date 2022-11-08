@@ -4,6 +4,6 @@
 |All F1 Races|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022|
 |Aus GP Lap Data|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022|
 |Formula 1 2018 Qualifying|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022|
-|Formula 1 2019 Season Results|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022, due to file size overall file has been split into 60k rows|
-|Formula E 2018 Data|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022, due to file size overall file has been split into 60k rows|
+|Formula 1 2019 Season Results|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022|
+|Formula E 2018 Data|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022|
 
