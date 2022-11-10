@@ -112,6 +112,7 @@ Right click the Raw button at the top of the file, select Save Link As, choose t
 <br><br>
 </details>
 
+<br />
 
 <!-- CONTRIBUTING -->
 ## Contributing
