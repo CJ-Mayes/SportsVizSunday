@@ -94,26 +94,9 @@ Download The Data!
 <pre>
 </details>
 
-
-<details>
-<summary>How To Download a CSV File?</summary>
-<br>
-
-Click Through To a Dataset
-![image](https://user-images.githubusercontent.com/66642883/201135728-6bda0d7f-23b4-4272-b229-e52f1ba8a4d4.png)
->> 
-
-Find The Sport You Like
-
-
->>
-Right click the Raw button at the top of the file, select Save Link As, choose the location on your computer where you want to save the file, and select Save, making the extension .csv
+  
 
   
-<br><br>
-<pre>
-</details>
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
