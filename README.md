@@ -79,9 +79,8 @@ We recognise not everyone wants to have a GitHub account nor want to learn how t
 
 >>
 
-Click through to a dataset
-![image](https://user-images.githubusercontent.com/66642883/201134742-eab5b201-1545-441b-9e96-f29fc4032fc8.png)
-
+#Click through to a dataset
+![image](https://user-images.githubusercontent.com/66642883/201135728-6bda0d7f-23b4-4272-b229-e52f1ba8a4d4.png)
 >> 
 
 Find the sport you like
