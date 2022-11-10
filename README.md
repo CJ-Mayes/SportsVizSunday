@@ -73,30 +73,9 @@ We recognise not everyone wants to have a GitHub account nor want to learn how t
 
 <!-- HOW TO DOWNLOAD XLSX File -->
 
-<!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Download Files</summary>
-  <ol>   
-    <!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Download Files</summary>
-  <ol>
-    <li><a href="#info">XLSX
-      
-      
-      
-      
-      </a></li>
-    <li><a href="#download-csv">CSV</a></li>
-  </ol>
-</details>
-   
-    <li><a href="#download-csv">CSV</a></li>
-  </ol>
-</details>
-
-
->>
+<summary>How To Download a xlsx File?</summary>
+<br>
 
 Click Through To a Dataset
 ![image](https://user-images.githubusercontent.com/66642883/201135728-6bda0d7f-23b4-4272-b229-e52f1ba8a4d4.png)
@@ -109,6 +88,33 @@ Find The Sport You Like
 
 Download The Data!
 ![image](https://user-images.githubusercontent.com/66642883/201135237-4039a01a-4324-4c30-b531-ef6dc0018965.png)
+  
+  
+<br><br>
+<pre>
+&lt;details&gt;
+&lt;summary&gt;How do I dropdown?&lt;&#47;summary&gt;
+&lt;br&gt;
+This is how you dropdown.
+&lt;&#47;details&gt;
+</pre>
+</details>
+
+---
+
+<details open>
+<summary>How To Download a CSV file?</summary>
+<br>
+Well, you asked for it!
+<br><br>
+<pre>
+&lt;details open&gt;
+&lt;summary&gt;Want to ruin the surprise?&lt;&#47;summary&gt;
+&lt;br&gt;
+Well, you asked for it!
+&lt;&#47;details&gt;
+</pre>
+</details>
 
 
 HOW TO DOWNLOAD CSV File
