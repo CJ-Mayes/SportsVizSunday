@@ -31,9 +31,9 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#how-to-download">How To Download</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#how-to-download">How To Download</a></li>
   </ol>
 </details>
 
@@ -90,7 +90,7 @@ Simon Rowe - [@MrRoweUK](https://twitter.com/@MrRoweuk)
 
 
 
-## How To Download
+## How To Download Data
 
 We recognise not everyone wants to have a GitHub account nor want to learn how to check out or clone repositories. The easiest way to download a specific dataset is to navigate to the data folder
 
