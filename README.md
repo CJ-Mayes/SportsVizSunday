@@ -99,15 +99,8 @@ Download The Data!
 <details open>
 <summary>How To Download a CSV file?</summary>
 <br>
-Well, you asked for it!
+text
 <br><br>
-<pre>
-&lt;details open&gt;
-&lt;summary&gt;Want to ruin the surprise?&lt;&#47;summary&gt;
-&lt;br&gt;
-Well, you asked for it!
-&lt;&#47;details&gt;
-</pre>
 </details>
 
 
