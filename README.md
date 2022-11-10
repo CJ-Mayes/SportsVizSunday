@@ -67,6 +67,29 @@ you can copy and paste the below:
 Taking part is easy! All you need to do to submit your work is use the hashtag #SportsVizSunday on Twitter for one of the team to see it. 
 We also have a repo tracking the different submissions and interactions with the team here [#SVS Tweet Tracker](https://github.com/CJ-Mayes/SportsVizSunday-Tracker)
 
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make our community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+If you have a data set you would like to contribute towards a future challenge, or wamt to partner with SportsVizSunday. Please reach out to one of the team. 
+
+  
+<!-- CONTACT -->
+## Contact
+
+CJ Mayes - [@_CJMayes](https://twitter.com/@CJMayes)
+<br />
+Mo Wootten - [@Mo_Wootten](https://twitter.com/@Mo_Wootten)
+<br />
+Simon Beaumont - [@SimonBeaumont04](https://twitter.com/@SimonBeaumont04) 
+<br />
+Simon Rowe - [@MrRoweUK](https://twitter.com/@MrRoweuk)
+
+
+
+
 ## How To Download
 
 We recognise not everyone wants to have a GitHub account nor want to learn how to check out or clone repositories. The easiest way to download a specific dataset is to navigate to the data folder
@@ -113,23 +136,3 @@ Right click the Raw button at the top of the file, select Save Link As, choose t
 </details>
 
 <br />
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make our community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-If you have a data set you would like to contribute towards a future challenge, or wamt to partner with SportsVizSunday. Please reach out to one of the team. 
-
-  
-<!-- CONTACT -->
-## Contact
-
-CJ Mayes - [@_CJMayes](https://twitter.com/@CJMayes)
-<br />
-Mo Wootten - [@Mo_Wootten](https://twitter.com/@Mo_Wootten)
-<br />
-Simon Beaumont - [@SimonBeaumont04](https://twitter.com/@SimonBeaumont04) 
-<br />
-Simon Rowe - [@MrRoweUK](https://twitter.com/@MrRoweuk)
-
-
