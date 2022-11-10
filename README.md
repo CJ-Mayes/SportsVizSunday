@@ -115,8 +115,7 @@ Download The Data!
 <pre>
 </details>
 
----
-
+<br><br>
 <details>
 <summary>How To Download a xlsx File?</summary>
 <br>
