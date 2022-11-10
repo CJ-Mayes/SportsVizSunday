@@ -98,44 +98,10 @@ We recognise not everyone wants to have a GitHub account nor want to learn how t
 <summary>How To Download a xlsx File?</summary>
 <br>
 
-Click Through To a Dataset
-![image](https://user-images.githubusercontent.com/66642883/201135728-6bda0d7f-23b4-4272-b229-e52f1ba8a4d4.png)
->> 
-
-Find The Sport You Like
-![image](https://user-images.githubusercontent.com/66642883/201134995-65ea5e13-86da-40c5-b61c-78947a3be4f2.png)
-
->>
+Click through to a dataset, find the sport you like and 
 
 Download The Data!
 ![image](https://user-images.githubusercontent.com/66642883/201135237-4039a01a-4324-4c30-b531-ef6dc0018965.png)
-  
-  
-<br><br>
-<pre>
-</details>
-
-<br><br>
-<details>
-<summary>How To Download a xlsx File?</summary>
-<br>
-
-Click Through To a Dataset
-![image](https://user-images.githubusercontent.com/66642883/201135728-6bda0d7f-23b4-4272-b229-e52f1ba8a4d4.png)
->> 
-
-Find The Sport You Like
-![image](https://user-images.githubusercontent.com/66642883/201134995-65ea5e13-86da-40c5-b61c-78947a3be4f2.png)
-
->>
-
-Download The Data!
-![image](https://user-images.githubusercontent.com/66642883/201135237-4039a01a-4324-4c30-b531-ef6dc0018965.png)
-  
-  
-<br><br>
-<pre>
-</details>
   
   
 <details>
@@ -145,13 +111,8 @@ Download The Data!
 To download a CSV from GitHub simply navigate to your desired repository.
 Select the CSV file
 <br>
-
 Right click the Raw button at the top of the file, select Save Link As and choose the location on your computer where you want to save the file, and select Save, making the extension a csv
 
-<br>
-![image](https://user-images.githubusercontent.com/66642883/201144045-c99aa866-586e-4fca-9bbc-2199903fb5df.png)
-
-  
 <br><br>
 <pre>
 </details>
