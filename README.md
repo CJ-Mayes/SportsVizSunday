@@ -23,8 +23,6 @@
   </p>
 </div>
 
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -119,6 +117,28 @@ Download The Data!
 
 ---
 
+<details>
+<summary>How To Download a xlsx File?</summary>
+<br>
+
+Click Through To a Dataset
+![image](https://user-images.githubusercontent.com/66642883/201135728-6bda0d7f-23b4-4272-b229-e52f1ba8a4d4.png)
+>> 
+
+Find The Sport You Like
+![image](https://user-images.githubusercontent.com/66642883/201134995-65ea5e13-86da-40c5-b61c-78947a3be4f2.png)
+
+>>
+
+Download The Data!
+![image](https://user-images.githubusercontent.com/66642883/201135237-4039a01a-4324-4c30-b531-ef6dc0018965.png)
+  
+  
+<br><br>
+<pre>
+</details>
+  
+  
 <details>
 <summary>How To Download a CSV File?</summary>
 <br>
