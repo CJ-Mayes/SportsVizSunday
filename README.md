@@ -67,6 +67,10 @@ you can copy and paste the below:
 Taking part is easy! All you need to do to submit your work is use the hashtag #SportsVizSunday on Twitter for one of the team to see it. 
 We also have a repo tracking the different submissions and interactions with the team here [#SVS Tweet Tracker](https://github.com/CJ-Mayes/SportsVizSunday-Tracker)
 
+## How To Download
+
+We recognise not everyone wants to have a GitHub account nor want to learn how to check out or clone repositories. The easiest way to download a specific dataset is to navigate to the data folder
+
 <!-- HOW TO DOWNLOAD XLSX File -->
 
 <!-- TABLE OF CONTENTS -->
@@ -74,14 +78,20 @@ We also have a repo tracking the different submissions and interactions with the
   <summary>Download Files</summary>
   <ol>
     <li><a href="#download-excel-file">XLSX</a></li>
+    
+    <!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Download Files</summary>
+  <ol>
+    <li><a href="#download-excel-file">XLSX</a></li>
+    <li><a href="#download-csv">CSV</a></li>
+  </ol>
+</details>
+   
     <li><a href="#download-csv">CSV</a></li>
   </ol>
 </details>
 
-
-## How To Download
-
-We recognise not everyone wants to have a GitHub account nor want to learn how to check out or clone repositories. The easiest way to download a specific dataset is to navigate to the data folder
 
 >>
 
