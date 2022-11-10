@@ -95,26 +95,18 @@ We recognise not everyone wants to have a GitHub account nor want to learn how t
 <!-- HOW TO DOWNLOAD XLSX File -->
 
 <details>
-<summary>How To Download a xlsx File?</summary>
+<summary>How do I download an xlsx?</summary>
 <br>
-
 Click through to a dataset, find the sport you like and 
-
 Download The Data!
 ![image](https://user-images.githubusercontent.com/66642883/201135237-4039a01a-4324-4c30-b531-ef6dc0018965.png)
-  
-  
+</details>
+
 <details>
-<summary>How To Download a CSV File?</summary>
+<summary>How do I download an xlsx?</summary>
 <br>
- 
 To download a CSV from GitHub simply navigate to your desired repository.
 Select the CSV file
 <br>
 Right click the Raw button at the top of the file, select Save Link As and choose the location on your computer where you want to save the file, and select Save, making the extension a csv
-
-<br><br>
-<pre>
 </details>
-
-<br />
