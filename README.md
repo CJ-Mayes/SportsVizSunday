@@ -80,10 +80,17 @@ We recognise not everyone wants to have a GitHub account nor want to learn how t
 >>
 
 Click through to a dataset
+![image](https://user-images.githubusercontent.com/66642883/201134742-eab5b201-1545-441b-9e96-f29fc4032fc8.png)
+
+>> 
+
+Find the sport you like
+![image](https://user-images.githubusercontent.com/66642883/201134995-65ea5e13-86da-40c5-b61c-78947a3be4f2.png)
 
 >>
 
 Download the data!
+![image](https://user-images.githubusercontent.com/66642883/201135237-4039a01a-4324-4c30-b531-ef6dc0018965.png)
 
 
 <!-- CONTRIBUTING -->
