@@ -101,7 +101,7 @@ Click through to a dataset, find the sport you like and click download The Data!
 </details>
 
 <details>
-<summary>How do I download an xlsx?</summary>
+<summary>How do I download a csv?</summary>
 <br>
 To download a CSV from GitHub simply navigate to your desired repository.
 Select the CSV file
