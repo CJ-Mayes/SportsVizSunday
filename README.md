@@ -33,7 +33,7 @@
     <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#how-to-download">How To Download</a></li>
+    <li><a href="#how-to-download-data">How To Download Data</a></li>
   </ol>
 </details>
 
@@ -126,11 +126,9 @@ Download The Data!
 To download a CSV from GitHub simply navigate to your desired repository.
 Select the CSV file
 
->>text
 
 Right click the Raw button at the top of the file, select Save Link As, choose the location on your computer where you want to save the file, and select Save, making the extension .csv  
-  
->>text
+
   
 <br><br>
 </details>
