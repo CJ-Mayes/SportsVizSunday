@@ -120,7 +120,7 @@ Download The Data!
 ---
 
 <details>
-<summary>How To Download a CSV file?</summary>
+<summary>How To Download a CSV File?</summary>
 <br>
  
 To download a CSV from GitHub simply navigate to your desired repository.
@@ -132,8 +132,8 @@ Right click the Raw button at the top of the file, select Save Link As and choos
 ![image](https://user-images.githubusercontent.com/66642883/201144045-c99aa866-586e-4fca-9bbc-2199903fb5df.png)
 
   
-  
 <br><br>
+<pre>
 </details>
 
 <br />
