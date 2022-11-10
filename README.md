@@ -96,18 +96,18 @@ Download The Data!
 
 ---
 
-<details open>
+<details>
 <summary>How To Download a CSV file?</summary>
 <br>
  
 To download a CSV from GitHub simply navigate to your desired repository.
 Select the CSV file
 
->>
+>>text
 
 Right click the Raw button at the top of the file, select Save Link As, choose the location on your computer where you want to save the file, and select Save, making the extension .csv  
   
->>
+>>text
   
 <br><br>
 </details>
@@ -120,6 +120,7 @@ Right click the Raw button at the top of the file, select Save Link As, choose t
 Contributions are what make our community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 If you have a data set you would like to contribute towards a future challenge, or wamt to partner with SportsVizSunday. Please reach out to one of the team. 
 
+  
 <!-- CONTACT -->
 ## Contact
 
