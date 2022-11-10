@@ -76,14 +76,17 @@ We recognise not everyone wants to have a GitHub account nor want to learn how t
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Download Files</summary>
-  <ol>
-    <li><a href="#download-excel-file">XLSX</a></li>
-    
+  <ol>   
     <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Download Files</summary>
   <ol>
-    <li><a href="#download-excel-file">XLSX</a></li>
+    <li><a href="#info">XLSX
+      
+      
+      
+      
+      </a></li>
     <li><a href="#download-csv">CSV</a></li>
   </ol>
 </details>
