@@ -97,7 +97,8 @@ We recognise not everyone wants to have a GitHub account nor want to learn how t
 <details>
 <summary>How do I download an xlsx?</summary>
 <br>
-Click through to a dataset, find the sport you like and click download in the top right of the pane
+Click through to a dataset, find the sport you like and click download in the top right of the pane. If you get stuck, please visit [here](https://www.gitkraken.com/learn/git/github-download#how-to-downlaod-a-file-from-github)
+  
 </details>
 
 <details>
