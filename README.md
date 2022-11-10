@@ -94,9 +94,32 @@ Download The Data!
 <pre>
 </details>
 
-  
+---
 
-  
+<details open>
+<summary>How To Download a CSV file?</summary>
+<br>
+Well, you asked for it!
+<br><br>
+<pre>
+&lt;details open&gt;
+&lt;summary&gt;Want to ruin the surprise?&lt;&#47;summary&gt;
+&lt;br&gt;
+Well, you asked for it!
+&lt;&#47;details&gt;
+</pre>
+</details>
+
+
+HOW TO DOWNLOAD CSV File
+To download a CSV from GitHub simply navigate to your desired repository.
+Select the CSV file
+
+>>
+
+Right click the Raw button at the top of the file, select Save Link As, choose the location on your computer where you want to save the file, and select Save, making the extension .csv
+
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -113,6 +136,5 @@ Mo Wootten - [@Mo_Wootten](https://twitter.com/@Mo_Wootten)
 Simon Beaumont - [@SimonBeaumont04](https://twitter.com/@SimonBeaumont04) 
 <br />
 Simon Rowe - [@MrRoweUK](https://twitter.com/@MrRoweuk)
-
 
 
