@@ -37,7 +37,7 @@
       <ul>
       </ul>
     </li>
-<li><a href="#How To Download">Download</a></li>
+    <li><a href="#How To Download">How To Download</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
