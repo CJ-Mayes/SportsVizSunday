@@ -1,7 +1,10 @@
 |Dataset Title|Date Created|Data Source|Comments|
 |:----|:---------|:---------|:---------|
 |Rugby League Stats 17/18|N/A|N/A||
-|Rugby World Cup Results|N/A|N/A||
+
+|Dataset Title| Date Created |Data Source|Comments|
+|:----|:-------------|:---------|:---------|
+|Rugby World Cup Results| Nov 2019     |N/A||
 
 Data above was migrated from the SportsVizSunday website Nov 2022
 
