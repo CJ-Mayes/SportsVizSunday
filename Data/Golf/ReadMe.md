@@ -7,9 +7,10 @@
 
 Data above was migrated from the SportsVizSunday website Nov 2022
 
-|Dataset Title| Date Created |Data Source| Comments             |
-|:----|:-------------|:---------|:---------------------|
-|Solheim Cup History| Sept 19      |N/A| Hosted by Kate Brown |
+| Dataset Title                   | Date Created |Data Source| Comments             |
+|:--------------------------------|:-------------|:---------|:---------------------|
+| 2019 Solheim Match Results.xlsx | Sept 19      |N/A| Hosted by Kate Brown |
+| Solheim Cup History             | Sept 19      |N/A| Hosted by Kate Brown |
 
 |Dataset Title|Date Created|Data Source|Comments|
 |:----|:---------|:---------|:---------|
