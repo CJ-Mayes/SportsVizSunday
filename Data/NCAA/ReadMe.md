@@ -1,9 +1,17 @@
+##NCAA
 |Dataset Title|Date Created|Data Source|Comments|
 |:----|:---------|:---------|:---------|
-|NCAA D1 Lacrosse|April 18|N/A||
-|NCAA American Champion Cities|April 18|N/A||
+|NCAA D1 Lacrosse|N/A|N/A||
 |TC19 NCAA Profits|N/A|N/A|Used at Tableau Conference 2019|
 
+## Jan 19
+|Dataset Title|Date Created|Data Source|Comments|
+|:----|:---------|:---------|:---------|
+|NCAA American Champion Cities|Jan 19|N/A| Guest hosted by Corey Jones - dataset includes both male and female sporting histories|
+
+Data above was migrated from the SportsVizSunday website Nov 2022
+
+## Aug 18
 |Dataset Title|Date Created|Data Source|Comments|
 |:----|:---------|:---------|:---------|
 |NCAA All Americans|Aug 18|N/A|List of all All-Americans by year, position, and college. There is also a stat line as well.
@@ -16,6 +24,7 @@ Data above was migrated from the SportsVizSunday website Nov 2022
 <br>
 Data was guest hosted by Kyle Umlang
 
+## April 18
 |Dataset Title|Date Created|Data Source|Comments|
 |:----|:---------|:---------|:---------|
 |NCAA Mens Basketball Results|April 18|Based on data from [Michael Roy](https://data.world/michaelaroy/ncaa-tournament-results)||
