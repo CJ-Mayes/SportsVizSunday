@@ -1,11 +1,24 @@
 |Dataset Title|Date Created|Data Source|Comments|
 |:----|:---------|:---------|:---------|
-|NCAA All Americans|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022|
-|NCAA Bowl Games|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022|
-|NCAA Combined Seasons|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022|
-|NCAA Mens Basketball Results|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022|
-|NCAA Players|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022|
-|NCAA Recruiting Stars|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022|
-|NCAA D1 Lacrosse|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022|
-|NCAA American Champion Cities|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022|
-|TC19 NCAA Profits|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022, used at Tableau Conference 2019|
+|NCAA D1 Lacrosse|April 18|N/A||
+|NCAA American Champion Cities|April 18|N/A||
+|TC19 NCAA Profits|N/A|N/A|Used at Tableau Conference 2019|
+
+|Dataset Title|Date Created|Data Source|Comments|
+|:----|:---------|:---------|:---------|
+|NCAA All Americans|Aug 18|N/A|List of all All-Americans by year, position, and college. There is also a stat line as well.
+|NCAA Bowl Games|Aug 18|N/A|All college bowl games ever played. Each row references a single team in each game, so if you look at last year's national title game there will be two rows for this game, one for Alabama and one for Clemson.|
+|NCAA Combined Seasons|Aug 18|N/A|Detailed season data for each time since the beginning of college football.|
+|NCAA Players|Aug 18|N/A||
+|NCAA Recruiting Stars|Aug 18|N/A|Wins and recruiting data for all college football teams from 2003-2017|
+
+Data above was migrated from the SportsVizSunday website Nov 2022
+<br>
+Data was guest hosted by Kyle Umlang
+
+|Dataset Title|Date Created|Data Source|Comments|
+|:----|:---------|:---------|:---------|
+|NCAA Mens Basketball Results|April 18|Based on data from [Michael Roy](https://data.world/michaelaroy/ncaa-tournament-results)||
+
+Data above was migrated from the SportsVizSunday website Nov 2022, 
+NCAA Men's Basketball Tournament results from 1985-2018.

@@ -1,9 +1,16 @@
 |Dataset Title|Date Created|Data Source|Comments|
 |:----|:---------|:---------|:---------|
-|British Open 2019 Score|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022|
-|PGA LPGA Money 2019|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022|
-|Ryder Cup|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022|
-|Solheim Cup History|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022|
-|The Masters|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022|
-|The Open|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022|
+|British Open 2019 Score|N/A|N/A||
+|PGA LPGA Money 2019|N/A|N/A||
+|Solheim Cup History|N/A|N/A||
+|The Masters|N/A|N/A||
+|The Open|N/A|N/A||
 
+Data above was migrated from the SportsVizSunday website Nov 2022
+
+
+|Dataset Title|Date Created|Data Source|Comments|
+|:----|:---------|:---------|:---------|
+|Ryder Cup|Sept 18|N/A||
+The September 2018 #SportsVizSunday monthly data viz challenge data set; by Kate Brown.
+Data above was migrated from the SportsVizSunday website Nov 2022

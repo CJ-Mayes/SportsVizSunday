@@ -1,8 +1,11 @@
 |Dataset Title|Date Created|Data Source|Comments|
 |:----|:---------|:---------|:---------|
-|MLS Attendance All Games|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022|
-|MLS Basic Stats|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022|
-|MLS Roster Details|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022|
-|MLS Salaries|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022|
+|MLS Attendance All Games|Nov 18|N/A||
+|MLS Basic Stats|Nov 18|N/A||
+|MLS Roster Details|Nov 18|N/A||
+|MLS Salaries|Nov 18|N/A||
+
+November 2018 was the Sports Viz Sunday MLS Data Viz Challenge, guest hosted by Steve Fenn.
+Data was migrated from the SportsVizSunday website Nov 2022
 
 
