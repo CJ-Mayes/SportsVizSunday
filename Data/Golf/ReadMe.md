@@ -13,7 +13,7 @@ Data above was migrated from the SportsVizSunday website Nov 2022
 | Solheim Cup History             | Sept 19      |N/A| Hosted by Kate Brown |
 
 Data above was migrated from the SportsVizSunday website Nov 2022
-gi
+
 |Dataset Title|Date Created|Data Source|Comments|
 |:----|:---------|:---------|:---------|
 |Ryder Cup|Sept 18|N/A|The September 2018 #SportsVizSunday monthly data viz challenge data set; by Kate Brown.|
