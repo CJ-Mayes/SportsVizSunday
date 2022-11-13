@@ -1,11 +1,14 @@
 |Dataset Title|Date Created|Data Source|Comments|
 |:----|:---------|:---------|:---------|
 |British Open 2019 Score|N/A|N/A||
-|PGA LPGA Money 2019|N/A|N/A||
 |The Masters|N/A|N/A||
 |The Open|N/A|N/A||
 
 Data above was migrated from the SportsVizSunday website Nov 2022
+
+|Dataset Title| Date Created |Data Source| Comments          |
+|:----|:-------------|:---------|:------------------|
+|PGA LPGA Money 2019| Sept 19g     |N/A| Sept 19 Challenge |
 
 | Dataset Title                   | Date Created |Data Source| Comments             |
 |:--------------------------------|:-------------|:---------|:---------------------|
