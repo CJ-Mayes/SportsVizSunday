@@ -1,6 +1,6 @@
-|Dataset Title|Date Created|Data Source|Comments|
-|:----|:---------|:---------|:---------|
-|Rugby League Stats 17/18|N/A|N/A||
+|Dataset Title| Date Created |Data Source| Comments               |
+|:----|:-------------|:---------|:-----------------------|
+|Rugby League Stats 17/18| Oct 2018     |N/A| Guest host Lorna Brown |
 
 |Dataset Title| Date Created |Data Source|Comments|
 |:----|:-------------|:---------|:---------|
