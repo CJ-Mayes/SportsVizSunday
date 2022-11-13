@@ -1,9 +1,10 @@
-|Dataset Title|Date Created|Data Source|Comments|
-|:----|:---------|:---------|:---------|
-|ASB Classic Mens Draw and Rankings|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022|
-|ASB Classic WTA Player List|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022|
-|ASB Classic Womens Final Serve Placem|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022|
-|Results ASB Classic Mens|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022|
-|Results ASB Classic WTA|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022|
-|Results Kooyong Classic 2019|N/A|N/A|Data was migrated from the SportsVizSunday website Nov 2022|
+|Dataset Title| Date Created |Data Source|Comments|
+|:----|:-------------|:---------|:--------|
+|ASB Classic Mens Draw and Rankings| Jan 2019     |N/A||
+|ASB Classic WTA Player List| Jan 2019     |N/A|                                                                                                              |
+|ASB Classic Womens Final Serve Placem| Jan 2019     |N/A|                                                 |
+|Results ASB Classic Mens| Jan 2019     |N/A|                                                 |
+|Results ASB Classic WTA| Jan 2019     |N/A|                                                |
+|Results Kooyong Classic 2019| Jan 2019     |N/A|                                               |
 
+Data is available from the WTA website (https://www.wtatennis.com) and ATP website (https://www.atptour.com/).
