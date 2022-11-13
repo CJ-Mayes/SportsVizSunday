@@ -2,8 +2,11 @@
 |:----|:---------|:---------|:-------|
 |NFL Combine Data|N/A|N/A||
 |NFL Draft And Salary Data|N/A|N/A||
-|Updated RUshing Data 2017-2019|N/A|N/A||
 |AFL Data 1998 2019|N/A|N/A||
+
+|Dataset Title| Date Created | Data Source                               |Comments|
+|:----|:-------------|:------------------------------------------|:-------|
+|Updated RUshing Data 2017-2019| Oct 2020     | Pro Football Focus (https://www.pff.com/) ||
 
 |Dataset Title| Date Created |Data Source| Comments                                                                                                                           |
 |:----|:-------------|:---------|:-----------------------------------------------------------------------------------------------------------------------------------|
