@@ -1,8 +1,11 @@
 |Dataset Title|Date Created|Data Source|Comments|
 |:----|:---------|:---------|:-------|
 |NFL Combine Data|N/A|N/A||
-|NFL Draft And Salary Data|N/A|N/A||
 |AFL Data 1998 2019|N/A|N/A||
+
+|Dataset Title| Date Created | Data Source | Comments                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|:----|:-------------|:------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|NFL Draft And Salary Data| Feb 21       | Various     | This month our co-hosts Jeff Plattner and Will Strouse have provided the #SportsVizSunday community really cool NFL data to pair with the Super Bowl coming up next week. There are a few different data sets available this month: <br/> NFL_Draft_1996_2020 - this data set comes from pro-football-reference.com <br/> NFL_Salary_Cap_2018_2020 - this data set comes from spotrac.com <br/> NFL_Salary_Cap_2021_2026 - this data set comes from spotrac.com <br/> NFL_Win_Loss_2018_2020 - this data set comes from pro-football-reference.com | 
 
 |Dataset Title| Date Created | Data Source                               |Comments|
 |:----|:-------------|:------------------------------------------|:-------|
