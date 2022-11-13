@@ -1,20 +1,26 @@
-|Dataset Title| Date Created |Data Source|Comments|
-|:----|:-------------|:---------|:-------|
-|NFL Combine Data| 2019         |N/A|Data from every NFL combine from 1987-2018|
-|AFL Data 1998 2019| N/A          |N/A|Data from every NFL combine from 1987-2018|
+## NFL
 
+## Feb 2021
 |Dataset Title| Date Created | Data Source | Comments                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |:----|:-------------|:------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |NFL Draft And Salary Data| Feb 21       | Jeff Plattner and Will Strouse           | There are a few different data sets available this month: <br/> NFL_Draft_1996_2020 - this data set comes from pro-football-reference.com <br/> NFL_Salary_Cap_2018_2020 - this data set comes from spotrac.com <br/> NFL_Salary_Cap_2021_2026 - this data set comes from spotrac.com <br/> NFL_Win_Loss_2018_2020 - this data set comes from pro-football-reference.com                                                                                                                                   | 
 
+## Oct 2020
 |Dataset Title| Date Created | Data Source                               |Comments|
 |:----|:-------------|:------------------------------------------|:-------|
 |Updated RUshing Data 2017-2019| Oct 2020     | Pro Football Focus (https://www.pff.com/) ||
 
+## Feb 2020
 |Dataset Title| Date Created |Data Source| Comments                                                                                                                           |
 |:----|:-------------|:---------|:-----------------------------------------------------------------------------------------------------------------------------------|
 |Astros Bangs| Feb 2020     |N/A| An indepth breakdown of Astros at bats from the year they won the World Series and were accused of cheating while doing so (2017). |
 |NFL Head Coach Recruitment Stats| Feb 2020     |N/A| head coach performance in the NFL  - Feb 2020 dataset                                                                              |
+
+## 2019
+|Dataset Title| Date Created |Data Source|Comments|
+|:----|:-------------|:---------|:-------|
+|NFL Combine Data| 2019         |N/A|Data from every NFL combine from 1987-2018|
+|AFL Data 1998 2019| N/A          |N/A|Data from every NFL combine from 1987-2018|
 
 | Dataset Title | Date Created | Data Source                 | Comments                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |:--------------|:-------------|:----------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -1,6 +1,16 @@
+## Olympics
+
+## Dec 18
+
 |Dataset Title|Date Created|Data Source|Comments|
 |:----|:---------|:---------|:---------|
 |Alpine Skiing|Dec 18|N/A|Data Created by Klaus Schulte, [blog reference](https://vizjockey.com/2018/12/01/sportsvizsunday-challenge-dec-2018)|
+
+
+## NA
+
+|Dataset Title|Date Created|Data Source|Comments|
+|:----|:---------|:---------|:---------|
 |Olympic Nations and Region Look Up|N/A|N/A||
 |Olympics|N/A|N/A||
 |Olympics Luge Single Results 14 and 18|N/A|N/A||
