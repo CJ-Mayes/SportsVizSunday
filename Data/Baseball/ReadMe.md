@@ -1,9 +1,9 @@
 ## Baseball
 
 ## 2022
-| Dataset Title | Date Created | Data Source                                                                | Comments                                                                                                                    |
-|:--------------|:-------------|:---------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------|
-| Pedro Stats   | Nov 2022     | Baseball-reference, created by Kate Brown for the Nov / Dec 2022 Challenge | Contains stats on Pedro Martinez. There are 8 tabs highlighting factors such as: pitching, career details, value and awards |
+| Dataset Title | Date Created | Data Source                                                          | Comments                                                                                                                    |
+|:--------------|:-------------|:---------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------|
+| Pedro Stats   | Dec 2022     | Baseball-reference, created by Kate Brown for the Dec 2022 Challenge | Contains stats on Pedro Martinez. There are 8 tabs highlighting factors such as: pitching, career details, value and awards |
 
 
 ## 2019
