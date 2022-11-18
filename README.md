@@ -120,4 +120,3 @@ This is an example of all of our Sports Data files
 
 ![Visualization of this repo](./diagram.svg)
 
-<!-- Hi, CJ! -->
