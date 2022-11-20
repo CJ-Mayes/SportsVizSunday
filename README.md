@@ -66,7 +66,7 @@ Taking part is easy! All you need to do to submit your work is use the hashtag #
 We also have a repo tracking the different submissions and interactions with the team here [#SVS Tweet Tracker](https://github.com/CJ-Mayes/SportsVizSunday-Tracker)
 
 <!-- ALL DATASETS -->
-## Getting Started
+## All Datasets
 Occasionally we will drop a new dataset into the repo that you can get involved in. We have over 100 other datasets sitting within our repo that we would love for you to check out.
 They can be accessed through the data tab, or click [here](https://github.com/CJ-Mayes/SportsVizSunday/tree/main/Data).
 
