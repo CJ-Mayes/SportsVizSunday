@@ -49,6 +49,7 @@ you can copy and paste the below:
 
 |Challenge Month| Sport                            |Data|Deadline|Created By|
 |:----|:---------------------------------|:---------|:---------|:---------|
+|VizIt London | Premier League Shot Data 21/22 |[Data](https://github.com/CJ-Mayes/SportsVizSunday/tree/main/Data/Soccer/Premier%20League%20%26%20WSL)|Jan 23|Team|
 |Dec 22| Baseball - Pedro Martinez        |[Data](https://github.com/CJ-Mayes/SportsVizSunday/blob/main/Data/Baseball/PedroStats.xlsx)|Jan 23|Kate Brown|
 |Oct 22| Rowing World Championships       |[Data](https://github.com/CJ-Mayes/SportsVizSunday/tree/main/Data/Rowing)|Dec 22|Simon Rowe|
 |Aug 22| CommonWealth Games               |[Data](https://github.com/CJ-Mayes/SportsVizSunday/blob/main/Data/CommonWealth%20Games/CWGMedallists_MedalTable_v2.xlsx)|Sept 22|Mo Wootten|
