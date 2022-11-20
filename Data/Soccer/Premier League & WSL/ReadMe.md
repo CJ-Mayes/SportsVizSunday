@@ -9,4 +9,8 @@ Datasets will be split by folder for Soccer due to the nature of the number of d
 | League Player Data 20_21 | Nov 2022     | Understat   | shows summary stats for all players in the 20 21 season |
 | League Player Data 21_22 | Nov 2022     | Understat   | shows summary stats for all players in the 21 22 season |
 
+## WSL 
 
+| Folder Title                   | Date Created | Data Source | Comments                                    |
+|:-------------------------------|:-------------|:------------|:--------------------------------------------|
+| WSL & Premier League data 2021 | Pre Nov 2022 | Understat   | summary dataset of the WSL league from 2021 |
