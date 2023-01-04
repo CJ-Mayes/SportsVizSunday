@@ -49,7 +49,7 @@ you can copy and paste the below:
 
 | Challenge Month | Sport                            |Data| Deadline | Created By                       |
 |:----------------|:---------------------------------|:---------|:---------|:---------------------------------|
-| Games Night Viz | Fifa / esports / beer mile       |[Data](https://github.com/CJ-Mayes/SportsVizSunday/tree/main/Data/z%20Partnerships/GamesNightViz%20January%202023)| Jan 4th  | Will Sutton                      |
+| Games Night Viz | Fifa / esports / beer mile       |[Data](https://github.com/CJ-Mayes/SportsVizSunday/tree/main/Data/z%20Partnerships/GamesNightViz%20January%202023)| Feb 10th | Will Sutton                      |
 | VizIt London    | Premier League Shot Data 21/22   |[Data](https://github.com/CJ-Mayes/SportsVizSunday/tree/main/Data/Soccer/Premier%20League%20%26%20WSL)| Nov 29th | Team                             |
 | Dec 22          | Baseball - Pedro Martinez        |[Data](https://github.com/CJ-Mayes/SportsVizSunday/blob/main/Data/Baseball/PedroStats.xlsx)| Jan 23   | Kate Brown                       |
 | Oct 22          | Rowing World Championships       |[Data](https://github.com/CJ-Mayes/SportsVizSunday/tree/main/Data/Rowing)| Dec 22   | Simon Rowe                       |
