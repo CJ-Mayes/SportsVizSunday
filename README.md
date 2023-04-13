@@ -64,7 +64,7 @@ you can copy and paste the below:
 ## Getting Started
 
 Taking part is easy! All you need to do to submit your work is use the hashtag #SportsVizSunday on Twitter for one of the team to see it. 
-We also have a repo tracking the different submissions and interactions with the team here [#SVS Tweet Tracker](https://github.com/CJ-Mayes/SportsVizSunday-Tracker)
+We also have a repo tracking the different submissions and interactions with the team here [SVS Tweet Tracker](https://github.com/CJ-Mayes/SportsVizSunday-Tracker)
 
 <!-- ALL DATASETS -->
 ## All Datasets
