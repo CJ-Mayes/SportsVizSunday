@@ -59,8 +59,6 @@ CJ Mayes - [@_CJMayes](https://twitter.com/@CJMayes)
 <br />
 Mo Wootten - [@Mo_Wootten](https://twitter.com/@Mo_Wootten)
 <br />
-Simon Beaumont - [@SimonBeaumont04](https://twitter.com/@SimonBeaumont04) 
-<br />
 Simon Rowe - [@MrRoweUK](https://twitter.com/@MrRoweuk)
 
 
